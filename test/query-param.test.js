@@ -1,5 +1,5 @@
 /**
- * This file is part of pigalle.http.parameter.query
+ * This file is part of pigalle.http.request.parameter.query
  *
  * Copyright (c) 2018 SAS 9 Février.
  *

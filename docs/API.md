@@ -14,7 +14,7 @@ An entity to use querystring params.
 
 **Example**  
 ```js
-const {QueryParam} = require('@pigalle/http.parameter.query')
+const {QueryParam} = require('@pigalle/http.request.parameter.query')
 
 const param = QueryParam.factory('param')
 ```
@@ -46,6 +46,6 @@ const param = QueryParam.factory('param')
 
 ***
 
-_Documentation generated on Thu, 01 Mar 2018 18:16:20 GMT_
+_Documentation generated on Thu, 01 Mar 2018 18:56:42 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**

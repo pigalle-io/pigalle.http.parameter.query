@@ -1,6 +1,6 @@
 {
-  "name": "@pigalle/http.parameter.query",
-  "version": "0.1.0",
+  "name": "@pigalle/http.request.parameter.query",
+  "version": "0.1.1",
   "description": "An entity to pass query parameters usable by the Pigalle framework.",
   "main": "lib/query-param.js",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pigalle-io/pigalle.http.parameter.query.git"
+    "url": "git+https://github.com/pigalle-io/pigalle.http.request.parameter.query.git"
   },
   "keywords": [
     [
@@ -38,9 +38,9 @@
   "author": "SAS 9 Février <contact@9fevrier.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pigalle-io/pigalle.http.parameter.query/issues"
+    "url": "https://github.com/pigalle-io/pigalle.http.request.parameter.query/issues"
   },
-  "homepage": "https://github.com/pigalle-io/pigalle.http.parameter.query#readme",
+  "homepage": "https://github.com/pigalle-io/pigalle.http.request.parameter.query#readme",
   "devDependencies": {
     "JSONPath": "^0.11.2",
     "coveralls": "^3.0.0",
