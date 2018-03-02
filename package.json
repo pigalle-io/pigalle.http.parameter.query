@@ -1,6 +1,6 @@
 {
   "name": "@pigalle/http.request.parameter.query",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An entity to pass query parameters usable by the Pigalle framework.",
   "main": "lib/query-param.js",
   "scripts": {
@@ -60,6 +60,6 @@
     "standard": "^11.0.0"
   },
   "dependencies": {
-    "@pigalle/entities.http.parameter": "^0.1.1"
+    "@pigalle/entities.http.request.parameter": "^0.1.2"
   }
 }
